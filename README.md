@@ -22,6 +22,11 @@ I think its easiest to show some examples:
 
 You can run this like any other cabal project, `cabal run dim-analysis-tool -- '<your input>'`.
 
+The derived SI units on [this wikipedia page](https://en.wikipedia.org/w/index.php?title=SI_derived_unit&oldid=1087797097#Derived_units_with_special_names) are supported
+(with the ohm literally spelt `ohm` instead of the unicode omega).
+
+The parser is case sensitive but extra whitespace shouldn't be an issue.
+
 ## Caveats
 
 - Doing `s^(2)` doesn't work, but you must do `s^(1/2)` or `s^(-1/2)` if you want fractions (not bothered to fix this)
