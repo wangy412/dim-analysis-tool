@@ -1,0 +1,23 @@
+Symbol 	Quantity 	SI base unit Equivalents
+Hz 	frequency 	s−1
+rad 	angle 	1
+sr 	solid angle 	1
+N 	"force, weight "	kg⋅m⋅s−2
+Pa 	"pressure, stress "	kg⋅m−1⋅s−2
+J 	"energy, work, heat "	kg⋅m2⋅s−2
+W 	"power, radiant flux "	kg⋅m2⋅s−3
+C 	electric charge or quantity of electricity 	s⋅A
+V 	"voltage, electrical potential difference, electromotive force "	kg⋅m2⋅s−3⋅A−1
+F 	electrical capacitance 	kg−1⋅m−2⋅s4⋅A2
+Ω 	"electrical resistance, impedance, reactance "	kg⋅m2⋅s−3⋅A−2
+S 	electrical conductance 	kg−1⋅m−2⋅s3⋅A2
+Wb 	magnetic flux 	kg⋅m2⋅s−2⋅A−1
+T 	"magnetic induction, magnetic flux density "	kg⋅s−2⋅A−1
+H 	electrical inductance 	kg⋅m2⋅s−2⋅A−2
+°C 	temperature relative to 273.15 K 	K
+lm 	luminous flux 	cd
+lx 	illuminance 	cd⋅m−2
+Bq 	radioactivity 	s−1
+Gy 	absorbed dose  	m2⋅s−2
+Sv 	equivalent dose  	m2⋅s−2
+kat 	catalytic activity 	s−1⋅mol
